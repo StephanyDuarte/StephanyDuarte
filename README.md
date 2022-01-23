@@ -20,3 +20,5 @@
 <div>
 
  ![Snake animation](https://github.com/StephanyDuarte/StephanyDuarte/blob/output/github-contribution-grid-snake.svg)
+
+</div>
