@@ -6,11 +6,11 @@
   
 </div>
 
-<div align="center" height= "180em"
-   href="https://github.com/StephanyDuarte">
-   <img src="https://github-readme-stats.vercel.app/api?username=StephanyDuarte&theme=radical&include_all_commits=true&count_private=true"/>
-  
-  
+<div align="center">
+  <a href="https://github.com/StephanyDuarte">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StephanyDuarte&theme=radical&include_all_commits=true&count_private=true"/>
+    
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanyDuarte&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
   
   
@@ -22,21 +22,15 @@
   
 </div>
 
-
-  
   
 ## 
 
- 
-<div align="center"> 
-
+ <div align="center"> 
   <a href = "mailto:sduarteportela@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/stephany-duarte" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <div>
   
   ![Snake animation](https://github.com/StephanyDuarte/StephanyDuarte/blob/output/github-contribution-grid-snake.svg)
- 
-  
- </div>
+</div>
   
 
