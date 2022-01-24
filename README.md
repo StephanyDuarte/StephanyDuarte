@@ -3,6 +3,7 @@
   <a href="https://github.com/StephanyDuarte">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StephanyDuarte&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanyDuarte&langs_count=7&theme=radical"/>
+  <img heigth="120em" src="C:\Users\Stephany\Desktop\teste.jpg">
 </div>
                            
 <div style="display: inline_block"><br>
