@@ -9,8 +9,9 @@
 <div align="center">
   <a href="https://github.com/StephanyDuarte">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StephanyDuarte&theme=radical&include_all_commits=true&count_private=true"/>
-    
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanyDuarte&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanyDuarte&langs_count=8&theme=radical"
 </div>
   
   
