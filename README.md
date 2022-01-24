@@ -10,7 +10,7 @@
    href="https://github.com/StephanyDuarte">
    <img src="https://github-readme-stats.vercel.app/api?username=StephanyDuarte&theme=radical&include_all_commits=true&count_private=true"/>
   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanyDuarte&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanyDuarte&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
   
   
