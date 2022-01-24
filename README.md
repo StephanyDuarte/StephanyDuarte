@@ -10,7 +10,7 @@
   <a href="https://github.com/StephanyDuarte">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StephanyDuarte&theme=radical&include_all_commits=true&count_private=true"/>
     
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanyDuarte&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanyDuarte&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
   
   
@@ -31,6 +31,8 @@
 <div>
   
   ![Snake animation](https://github.com/StephanyDuarte/StephanyDuarte/blob/output/github-contribution-grid-snake.svg)
+  
+
 </div>
   
 
