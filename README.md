@@ -1,15 +1,20 @@
 ## Hi I am Stephany, a dev begginer!
+
 <div align="right">
   
   ![Stephany-pic](https://user-images.githubusercontent.com/95192898/150832137-dc76df0e-7835-49ca-8b59-954739d56143.jpg)
   
 </div>
-<div align="center">
-  <a href="https://github.com/StephanyDuarte">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StephanyDuarte&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanyDuarte&layout=compact&langs_count=7&theme=radical"/>
-</div>
-                           
+
+<a href="https://github.com/StephanyDuarte">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=StephanyDuarte&theme=radical&include_all_commits=true&count_private=true"/>
+</a>
+<a href="https://github.com/StephanyDuarte">
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanyDuarte&layout=compact&langs_count=2&theme=radical"/>
+</a>
+  
+  
+  
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -17,9 +22,11 @@
   
 </div>
 
+
   
   
-##
+## 
+
  
 <div align="center"> 
 
@@ -30,3 +37,5 @@
   ![Snake animation](https://github.com/StephanyDuarte/StephanyDuarte/blob/output/github-contribution-grid-snake.svg)
   
  </div>
+  
+
