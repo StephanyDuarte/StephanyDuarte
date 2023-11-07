@@ -1,4 +1,4 @@
-# Hi! I am Stephany, a dev begginer!
+# Hi! I am Stephany, a backend dev!
 
 
 <div align="center">
